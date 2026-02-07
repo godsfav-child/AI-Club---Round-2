@@ -1,0 +1,57 @@
+{
+    "test_accuracy": 0.6458333134651184,
+    "test_precision": 0.6850393414497375,
+    "test_recall": 0.6041666865348816,
+    "macro_f1_score": 0.6396146772128424,
+    "test_loss": 2.4924044609069824,
+    "per_class_metrics": [
+        {
+            "Emotion": "neutral",
+            "Precision": 0.625,
+            "Recall": 1.0,
+            "F1-Score": 0.7692307692307693
+        },
+        {
+            "Emotion": "surprised",
+            "Precision": 0.6129032258064516,
+            "Recall": 0.95,
+            "F1-Score": 0.7450980392156863
+        },
+        {
+            "Emotion": "angry",
+            "Precision": 0.7647058823529411,
+            "Recall": 0.6842105263157895,
+            "F1-Score": 0.7222222222222222
+        },
+        {
+            "Emotion": "calm",
+            "Precision": 0.75,
+            "Recall": 0.631578947368421,
+            "F1-Score": 0.6857142857142857
+        },
+        {
+            "Emotion": "fearful",
+            "Precision": 0.6842105263157895,
+            "Recall": 0.6842105263157895,
+            "F1-Score": 0.6842105263157895
+        },
+        {
+            "Emotion": "sad",
+            "Precision": 0.5,
+            "Recall": 0.5789473684210527,
+            "F1-Score": 0.5365853658536586
+        },
+        {
+            "Emotion": "happy",
+            "Precision": 0.6,
+            "Recall": 0.47368421052631576,
+            "F1-Score": 0.5294117647058824
+        },
+        {
+            "Emotion": "disgust",
+            "Precision": 0.75,
+            "Recall": 0.3157894736842105,
+            "F1-Score": 0.4444444444444444
+        }
+    ]
+}
